@@ -1,1 +1,0 @@
-Repo of our solutions to exercism.io programming exercises.
